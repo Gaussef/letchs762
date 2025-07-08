@@ -1,0 +1,6 @@
+requests
+user_agent
+faker
+rich
+requests_toolbelt
+bs4
